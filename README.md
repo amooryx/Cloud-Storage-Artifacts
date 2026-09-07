@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="Cloud-Storage-Artifacts" width="800">
+</div>
+
 # Cloud Storage Artifacts
 
 ### 🔍 Cloud Storage Artifact Comparison for DFIR (Endpoint-Based)
